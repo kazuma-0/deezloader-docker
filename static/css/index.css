@@ -1,0 +1,25 @@
+
+body {
+	background-image: url("../imgs/deez.jpg");
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+ul {
+	margin-right: 200px;
+	margin-left: 200px;
+	text-align: center;
+}
+
+#button {
+	text-align: center;
+}
+
+.hidden {
+	display: none;
+}
+
+#load {
+	color: green;
+	margin-top: 25%;
+}
